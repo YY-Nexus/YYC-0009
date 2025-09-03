@@ -129,7 +129,7 @@ export default function CustomerServicePlatform() {
                 <h1
                   className={`text-lg sm:text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent`}
                 >
-                  金兰家居客服系统
+                  锦澜家居客服系统
                 </h1>
                 <p className={`text-xs sm:text-sm ${isDarkMode ? "text-gray-400" : "text-gray-600"}`}>
                   智能客户服务管理平台
